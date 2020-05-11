@@ -1,4 +1,4 @@
-package in.bushansirgur.onlinebookstore;
+package com.khaoulaelmajni.onlinebookstore;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
